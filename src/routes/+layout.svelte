@@ -6,6 +6,7 @@
 <footer class="footer footer-center bg-base-300 text-base-content p-4 sticky top-[100vh]">
 	<aside>
 		<p>
+			<a href="https://www.rokokocare.com/">Rokoko Care</a> | 
 			<a href="https://portal.rokokocare.com/">Care Portal</a>
 		</p>
 	</aside>
