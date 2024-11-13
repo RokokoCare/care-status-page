@@ -52,7 +52,6 @@ jobs:
         env:
           SOURCES: |
             Portal->https://portal.rokokocare.com/
-            Notification->https://api.rokokocare.com/notifications/health
             APIs->https://api.rokokocare.com/auth/health
             Mobile App->https://api.rokokocare.com/auth/health
           GITHUB_TOKEN: ${{ github.token }}
